@@ -185,4 +185,6 @@ p {
 .buttonHighlight:hover {
 	font-weight: 800;
 	border-width: 3px;
+	color: var(--second-color); /* ajouté*/
+	border-color: var(--second-color); /* ajouté*/
 }
